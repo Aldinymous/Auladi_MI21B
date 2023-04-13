@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "name": "Auladi Alfa Rizki",
+      "order": "Mie Bakso Halus",
+      "count": "1",
+      "price": "10000",
+      "id": 1
+    },
+    {
+      "name": "Auladi Alfa Rizki",
+      "order": "Mie Bakso Halus",
+      "count": "1",
+      "price": "10000",
+      "id": 2
+    }
+  ]
+}
